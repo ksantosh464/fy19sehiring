@@ -41,7 +41,6 @@ Key focus areas:
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
-- [http://Oracle.com/cloud](http://Oracle.com/cloud)
 - [https://www.oracle.com/cloud/cloud-summary.html](https://www.oracle.com/cloud/cloud-summary.html)
 - [https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html](https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html)
 - [https://www.oracle.com/cloud/saas.html](https://www.oracle.com/cloud/saas.html)
