@@ -55,7 +55,7 @@ During this presentation, we would like you to provide an overview (or demonstra
 
 ### **Expectation**
 
-We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
+We expect that you have made a sincere effort in the following:
 
 - Show your capability to learn Oracle’s cloud services
 
