@@ -62,8 +62,6 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 - Provide us with critical feedback if there were roadblocks
 
-- Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.  
-
 - Suggest you look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  Ideally, we are looking for a full-stack development that shows us the capability to not only create front-end Apps, but also an understanding of how to connect to the backend systems.  
 
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
