@@ -37,7 +37,7 @@ This **presentation** should be no longer than <u>**15 minutes**</u> and can be 
 Key focus areas:
 - Expect the audience to ask for clarification on any content you show.
 - Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
-- Expect technical questions throughout the presentation and specifically slide 9.
+- Expect technical questions throughout the presentation .
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
