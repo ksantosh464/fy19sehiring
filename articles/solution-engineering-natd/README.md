@@ -51,18 +51,8 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 ## Recent Project Presentation
 
 During this presentation, we would like you to provide an overview (or demonstration) of a development project on which you have recently worked. Provide examples of the technology, programming languages, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides.
-
-
-### **Expectation**
-
-We expect that you have made a sincere effort in the following:
-
-- Show your capability to learn Oracle’s cloud services
-
-- Suggest you look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  Ideally, we are looking for a full-stack development that shows us the capability to not only create front-end Apps, but also an understanding of how to connect to the backend systems.  
-
-- Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
-
+ 
+ 
 ## Technical Question and Answer Interview
 
 During this section of the interview we will ask technical questions based on your experience, and our requirements of the Solution Engineering position. We hope to gain a better understanding of your development expertise, your understanding of development methodologies, and your experience with various programming languages and open source tools and frameworks.
