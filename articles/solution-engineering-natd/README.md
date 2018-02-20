@@ -61,8 +61,8 @@ During this presentation, we would like you to provide an overview (or demonstra
       
 	- Any libraries you used or didn’t use 
 	- Any coding challenges
-        - Was any DevOps process used (this is more likely for internships)
-        - Is there a GitHub that we can look at this code
+	- Was any DevOps process used (this is more likely for internships)
+	- Is there a GitHub that we can look at this code
  
 ## Technical Question and Answer Interview
 
