@@ -60,6 +60,7 @@ During this presentation, we would like you to provide an overview (or demonstra
 - Walk through the code ( whatever the code may be - this could be methods you may have written, or if you used R-Studio -show us what you did in R)
       
 	- Any libraries you used or didn’t use 
+	- Any coding challenges
         - Was any DevOps process used (this is more likely for internships)
         - Is there a GitHub that we can look at this code
  
