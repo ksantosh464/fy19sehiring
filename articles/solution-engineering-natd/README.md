@@ -51,7 +51,17 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 ## Recent Project Presentation
 
 During this presentation, we would like you to provide an overview (or demonstration) of a development project on which you have recently worked. Provide examples of the technology, programming languages, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides.
- 
+
+**Guidelines for Project walkthrough**
+
+-How did you get involved in this project (could be part of a course or internship or your own personal interest or other)
+- How big was the team (if there was one)
+- What is your specific role and contribution ( For example:- I coded front-end and collected requirements for project OR I coded some piece of the front-end)
+- Walk through the code ( whatever the code may be - this could be methods you may have written, or if you used R-Studio -show us what you did in R)
+	- Any libraries you used or didn’t use 
+        -  Any coding challenges
+       -  Was any DevOps process used (this is more likely for internships)
+       - Is there a GitHub that we can look at this code
  
 ## Technical Question and Answer Interview
 
