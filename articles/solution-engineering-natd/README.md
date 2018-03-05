@@ -21,7 +21,7 @@ The face to face interview process consists of a technical interview outlined be
 | --- | --- | --- |
 | Overview | 3 - 5 | Brief overview of yourself, covering your capabilities and technical experience |
 | Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
-| Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevance  |  
+| Tech Deep dive - Oracle Cloud Demo or Project Highlight | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevance OR Overview of a development project on which you have recently worked on |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview |
 
 ## Overview
