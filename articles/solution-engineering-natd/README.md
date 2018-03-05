@@ -59,7 +59,7 @@ During this presentation, we ask that you provide a brief summary of the Oracle 
 
 In this section of the interview, you will select **a single option** from the 2 options below. **Remember: You only have 15 Minutes!**:
 
-### **Option 1: Using Oracle cloud Account**
+### **Option 1: Demo Using Oracle Cloud Account**
 
 Please use the Oracle cloud account provided by your recruiting coordinator.
 
