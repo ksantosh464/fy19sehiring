@@ -77,7 +77,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
 
-**Guidance for Account usage:**
+**Guidelines for Oracle Cloud Account usage:**
 
 - Do not use total of more than 3 OCPU'S.
 - You only need 1 OCPU for each PaaS service.
