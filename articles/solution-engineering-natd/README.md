@@ -1,8 +1,7 @@
 # Solution Engineering North American Technology Division Interviews
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://github.com/vgirish/fy19sehiring/blob/master/articles/solution-engineering-natd/README.md)
-## READ THIS
-If you are currently interviewing and using Oracle provided Cloud accounts -please READ the updated "Guidelines for Oracle Cloud Account Usage" section below!!
+## READ - If you are currently interviewing and using Oracle provided Cloud accounts -please READ the updated "Guidelines for Oracle Cloud Account Usage" section below!!
 
 ## The Role
 Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions (60-70% technical, 40-30% communication/business).
