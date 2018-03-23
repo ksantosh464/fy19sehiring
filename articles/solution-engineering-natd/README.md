@@ -1,6 +1,7 @@
 # Solution Engineering North American Technology Division Interviews
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering/articles/solution-engineering-natd/index.html)
+
 If you are currently interviewing and using Oracle provided Cloud accounts -please READ the updated "Guidelines for Oracle Cloud Account Usage" section below!!
 
 ## The Role
@@ -68,18 +69,22 @@ Please use the Oracle cloud account provided by your recruiting coordinator.
 
 We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
 
-- Show your capability to learn Oracle’s cloud services
+- Show your capability to learn Oracle’s cloud services. This includes reading up documentation online before doing things and running into trouble!.
 - Provide us with critical feedback if there were roadblocks
 - Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.  
 - Suggest you look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  Ideally, we are looking for a full-stack development that shows us the capability to not only create front-end Apps, but also an understanding of how to connect to the backend systems.  
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
+- It's always good practice to create a quick video of your work -just in case you run into issues.
 
 **Guidelines for Oracle Cloud Account usage:**
 
 - Do not use total of more than 3 OCPU'S.
-- You only need 1 OCPU for each PaaS service.
+- Delete what you don't use!. Stop the instance if needed and delete them.
+- You only need 1 OCPU for each PaaS service. For example - 1 OCPU for DBaaS, 1 OCPU for Application Container Service etc.
 - Do not use Oracle IOT Cloud service as you will easily run out of CPU counts allocated to the environment.
-- If you are running into any technical issues, Please reach out to recruiting team.
+- If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
+- Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs). Stop things that you don't need and delete those instances. If your account is suspended for overage issues then drop a note to recruiting team -we will see what we can do.
+- Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
 
 
 
