@@ -1,6 +1,6 @@
 # Solution Engineering North American Technology Division Interviews
 
-***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering/articles/solution-engineering-natd/index.html)
+***Note:*** This document is best viewed by clicking on this [github.io link](https://github.com/vgirish/fy19sehiring/blob/master/articles/solution-engineering-natd/README.md)
 
 If you are currently interviewing and using Oracle provided Cloud accounts -please READ the updated "Guidelines for Oracle Cloud Account Usage" section below!!
 
